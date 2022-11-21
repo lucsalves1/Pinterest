@@ -1,0 +1,309 @@
+
+.fundo-tela{
+    width: 100%;
+    min-height:100vh;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content:center;
+    padding: 15px;
+    background-image:url(fundo-login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    
+  }
+  
+  .Logo{
+  width: 90px;
+   
+    
+  }
+  
+  .Titulo{
+    display:block;
+    font-size:23px;
+    color:black;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 5%;
+    
+  }
+  
+  .fundo-login{
+    width: 390px;
+    background-color:white;
+    border-radius:10px;
+    padding: 60px 50px 33px 25px ;
+    
+    
+  }
+  
+  .input-entrada{
+    width: 80%;
+    font-size:13px;
+    display: block;
+    height: 45px;
+    border-radius: 15px;
+    border-color:#C0C0C0;
+    margin-left: 48px;
+  
+  }
+  .input-entrada-e{
+    width: 80%;
+    font-size:13px ;
+    display: block;
+    margin: 8px;
+    height: 45px;
+    border-radius: 15px;
+    border-color:#C0C0C0;
+    margin-bottom: 8%;
+    margin-left: 48px;
+  
+  }
+  
+  .titulo-input{
+    font-size: 15px;
+    margin-left: 62px;
+    
+  }
+    
+  
+  
+    .botao-entrar{
+      font-size:15px;
+      border: none;
+      border-radius:22px;
+      background-color: #cc0000;
+      color:white;
+      width:70%;
+      height:45px;
+      margin: 56px;
+      margin-top: 5%;
+      margin-bottom: 4%;
+      cursor: pointer; 
+    }
+    .botao-face{
+        font-size:15px;
+        border: none;
+        border-radius:22px;
+        background-color: #1777f1;
+        color:white;
+        width: 70%;
+        height: 45px;
+        margin: 5%;
+        margin-top:6%;  
+        cursor: pointer; 
+        margin-left: 59px;
+      
+        
+  
+    }
+    .botao-google{
+      font-size:1em;
+      border-color:#D3D3D3;
+      border-radius:22px;
+      background-color: white;
+      color:black;
+      width:70%;
+      height:45px;
+      margin:6%;
+      margin-top: 4%;  
+      margin-left: 59px;
+      text-align: center;
+      cursor: pointer; 
+      
+  
+  }
+  
+  .fim-texto{
+  display:block;
+  text-align: center;
+  margin-top: 4%;
+  font-size: 11px;
+    
+    }
+    .fim-textoo{
+    display:block;
+  text-align: center;
+  margin: -6px; 
+    
+    }
+  .icon {
+    color: #cc0000;
+    font-size: 3em;
+    width:100%;
+    margin-top: 10px;
+    
+  }
+  .icon-face{
+    position: absolute;
+    font-size: 1.6em; 
+    margin-left: 66px; 
+    margin-top: 32px;
+    color: white;
+  }
+  .icon-google{
+    position: absolute;
+    font-size: 1.7em; 
+    margin-left:69px;
+    margin-top: 25px;
+    color: white;
+    
+    
+  }
+  .fundo-tela{
+    width: 100%;
+    min-height:100vh;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content:center;
+    padding: 15px;
+    background-image:url(fundo-login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    
+  }
+  
+  .Logo{
+  width: 90px;
+   
+    
+  }
+  
+  .Titulo{
+    display:block;
+    font-size:23px;
+    color:black;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 5%;
+    
+  }
+  
+  .fundo-login{
+    width: 390px;
+    background-color:white;
+    border-radius:10px;
+    padding: 60px 50px 33px 25px ;
+    
+    
+  }
+  
+  .input-entrada{
+    width: 80%;
+    font-size:13px;
+    display: block;
+    height: 45px;
+    border-radius: 15px;
+    border-color:#C0C0C0;
+    margin-left: 48px;
+  
+  }
+  .input-entrada-e{
+    width: 80%;
+    font-size:13px ;
+    display: block;
+    margin: 8px;
+    height: 45px;
+    border-radius: 15px;
+    border-color:#C0C0C0;
+    margin-bottom: 8%;
+    margin-left: 48px;
+  
+  }
+  
+  .titulo-input{
+    font-size: 15px;
+    margin-left: 62px;
+    
+  }
+    
+  
+  
+    .botao-entrar{
+      font-size:15px;
+      border: none;
+      border-radius:22px;
+      background-color: #cc0000;
+      color:white;
+      width:70%;
+      height:45px;
+      margin: 56px;
+      margin-top: 5%;
+      margin-bottom: 4%;
+      cursor: pointer; 
+    }
+    .botao-face{
+        font-size:15px;
+        border: none;
+        border-radius:22px;
+        background-color: #1777f1;
+        color:white;
+        width: 70%;
+        height: 45px;
+        margin: 5%;
+        margin-top:6%;  
+        cursor: pointer; 
+        margin-left: 59px;
+      
+        
+  
+    }
+    .botao-google{
+      font-size:1em;
+      border-color:#D3D3D3;
+      border-radius:22px;
+      background-color: white;
+      color:black;
+      width:70%;
+      height:45px;
+      margin:6%;
+      margin-top: 4%;  
+      margin-left: 59px;
+      text-align: center;
+      cursor: pointer; 
+      
+  
+  }
+  
+  .fim-texto{
+  display:block;
+  text-align: center;
+  margin-top: 4%;
+  font-size: 11px;
+    
+    }
+    .fim-textoo{
+    display:block;
+  text-align: center;
+  margin: -6px; 
+    
+    }
+  .icon {
+    color: #cc0000;
+    font-size: 3em;
+    width:100%;
+    margin-top: 10px;
+    
+  }
+  .icon-face{
+    position: absolute;
+    font-size: 1.6em; 
+    margin-left: 66px; 
+    margin-top: 32px;
+    color: white;
+  }
+  .icon-google{
+    position: absolute;
+    font-size: 1.7em; 
+    margin-left:69px;
+    margin-top: 25px;
+    color: white;
+    
+    
+  }
